@@ -1,6 +1,7 @@
 
 public class Sort {
 	public static int counter = 0;
+	//UTF-8
 	// Sort the Array in a new Array wich is divided up in diffrent Arrays
 	// data going to be sorted by theier Key Area
 	public static Data[] sort(Data[] arr) {
