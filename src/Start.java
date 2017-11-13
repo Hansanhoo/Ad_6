@@ -3,7 +3,7 @@
 public class Start {
 	public static void main(String[] args) {
 
-		System.out.println("Bestcase Array mit der Länge ");
+		System.out.println("Bestcase Array mit der LÃ¤nge ");
 		int counter = 0;
 		for(int i = 0 ; i < 10 ; i ++){
 			Sort.counter=0;	
